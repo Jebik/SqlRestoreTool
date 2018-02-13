@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <backUps>
+    <backUpAccess>
+      <name>NAME</name>
+      <username>USERNAME</username>
+      <password>PASSWORD</password>
+      <uri>URI</uri>
+      <dailyfolder>FOLDER</dailyfolder>
+    </backUpAccess>
+    <backUpAccess>
+      <name>NAME</name>
+      <username>USERNAME</username>
+      <password>PASSWORD</password>
+      <uri>URI</uri>
+      <dailyfolder>FOLDER</dailyfolder>
+    </backUpAccess>
+  </backUps>
+  <sql>
+    <sqlAccess>   
+      <name>NAME</name>
+      <host>HOST</host>
+      <disk>DISK</disk>      
+      <username>USERNAME</username>
+      <password>PASSWORD</password>      
+      <uri>URI</uri>      
+      <folder>FOLDER</folder>  
+      <usernameSql>SQLUSERNAME</usernameSql>
+      <passwordSql>SQLPASSWORD</passwordSql>
+      <uriSql>SQLURI</uriSql> 
+    </sqlAccess>
+  </sql>  
+</config>
